@@ -136,6 +136,7 @@
 <img width="394" height="620" alt="스크린샷 2025-12-11 오후 5 10 58" src="https://github.com/user-attachments/assets/a2bbce09-af24-4fd1-9c1e-e7ab2770253a" />
 
 
+
 </br>
 
 ----
@@ -238,6 +239,14 @@
 ### WBS
 <img width="2339" height="1653" alt="백엔드 2조 xlsx - WBS-1" src="https://github.com/user-attachments/assets/74bc66c8-0100-4347-a81e-ab6f1b1e5cbd" />
 <img width="2339" height="1653" alt="백엔드 2조 xlsx - WBS-2" src="https://github.com/user-attachments/assets/9fdc579f-2c48-4f61-b20f-64c1834ab3e2" />
+
+### DDD 설계 문서
+
+<img width="1624" height="1051" alt="DDD blueprint" src="https://github.com/user-attachments/assets/cb93f181-f017-41d9-ac15-b58441ff2211" />
+
+### 테스트 결과 보고서
+
+<img width="2020" height="1140" alt="testcase_results" src="https://github.com/user-attachments/assets/72893d62-16bb-4d10-baec-c1f5664a7aae" />
 
 
 </br>
